@@ -41,10 +41,10 @@ function About() {
         <div className="skills-item">
           <h3>Formation</h3>
           <div className="skills-details">
-            <p>OpenClassrooms</p>
             <p>Développeur web</p>
             <p>6 mois</p>
             <p>8 projets</p>
+            <p>OpenClassrooms</p>
           </div>
           <div>
             <img src={ocr} alt="OpenClassrooms icon" />

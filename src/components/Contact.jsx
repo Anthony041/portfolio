@@ -2,9 +2,9 @@ import "../styles/Contact.css";
 
 function Contact() {
   return (
-    <div id="contact">
+    <section id="contact">
       <h2>Contact</h2>
-    </div>
+    </section>
   );
 }
 
