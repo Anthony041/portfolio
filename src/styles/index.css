@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@100;200;300;400;500&family=IBM+Plex+Sans:wght@200;300;400;500&family=Radio+Canada:wght@300;400;500&display=swap');
+
+body {
+    margin: 60px 240px 60px 240px;
+    background-color: #002030;
+}
+
+* {
+    font-family: 'Albert Sans', 'IBM Plex Sans', 'Radio Canada', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #b0cee4;
+    list-style-type: none;
+}
