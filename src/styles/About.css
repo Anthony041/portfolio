@@ -30,6 +30,7 @@
     border-radius: 20px;
     background-color: #002030;
     width: 26%;
+    transition: 1s;
 }
 
 .skills-item:hover {

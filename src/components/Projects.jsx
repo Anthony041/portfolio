@@ -1,12 +1,19 @@
+import booki from "../assets/booki.png";
+import sophie from "../assets/sophie.png";
+import nina from "../assets/nina.jpg";
+import kasa from "../assets/kasa.png";
+import grimoire from "../assets/grimoire.png";
 import "../styles/Projects.css";
 
 function Projects() {
   return (
     <section id="projects">
       <h2>Projets</h2>
-      <div className="container-cards">
+      <div className="cards-container">
         <div className="card">
-          <div className="card__side card__side--front"></div>
+          <div className="card__side card__side--front">
+            <img src={booki} alt="Booki website" />
+          </div>
           <div className="card__side card__side--back">
             <h3>Booki</h3>
             <div className="card__details">
@@ -29,13 +36,15 @@ function Projects() {
               </ul>
             </div>
             <a href="http://localhost:3000/" className="btn">
-              Voir site
+              Voir le site
             </a>
           </div>
         </div>
 
         <div className="card">
-          <div className="card__side card__side--front"></div>
+          <div className="card__side card__side--front">
+            <img src={sophie} alt="Sophie Bluel website" />
+          </div>
           <div className="card__side card__side--back">
             <h3>Sophie Bluel</h3>
             <div className="card__details">
@@ -50,15 +59,17 @@ function Projects() {
               </ul>
             </div>
             <a href="http://localhost:3000/" className="btn">
-              Voir site
+              Voir le site
             </a>
           </div>
         </div>
 
         <div className="card">
-          <div className="card__side card__side--front"></div>
+          <div className="card__side card__side--front">
+            <img src={nina} alt="Nina Carducci website" />
+          </div>
           <div className="card__side card__side--back">
-            <h3>Nina Cardcucci</h3>
+            <h3>Nina Carducci</h3>
             <div className="card__details">
               <ul>
                 <li>Débogage et optimisation d'un site de photographe</li>
@@ -68,13 +79,15 @@ function Projects() {
               </ul>
             </div>
             <a href="http://localhost:3000/" className="btn">
-              Voir site
+              Voir le site
             </a>
           </div>
         </div>
 
         <div className="card">
-          <div className="card__side card__side--front"></div>
+          <div className="card__side card__side--front">
+            <img src={kasa} alt="Kasa website" />
+          </div>
           <div className="card__side card__side--back">
             <h3>Kasa</h3>
             <div className="card__details">
@@ -96,13 +109,15 @@ function Projects() {
               </ul>
             </div>
             <a href="http://localhost:3000/" className="btn">
-              Voir site
+              Voir le site
             </a>
           </div>
         </div>
 
         <div className="card">
-          <div className="card__side card__side--front"></div>
+          <div className="card__side card__side--front">
+            <img src={grimoire} alt="Mon Vieux Grimoire website" />
+          </div>
           <div className="card__side card__side--back">
             <h3>Mon Vieux Grimoire</h3>
             <div className="card__details">
@@ -110,16 +125,13 @@ function Projects() {
                 <li>
                   Développement du back-end d'un site de notation de livres
                 </li>
-                <li>
-                  Implémentation d'un modèle logique de données conformément à
-                  la réglementation
-                </li>
+                <li>Implémentation d'un modèle logique de données</li>
                 <li>Stockage des données de manière sécurisée</li>
                 <li>Mise en œuvre des opérations CRUD de manière sécurisée</li>
               </ul>
             </div>
             <a href="http://localhost:3000/" className="btn btn--white">
-              Voir site
+              Voir le site
             </a>
           </div>
         </div>

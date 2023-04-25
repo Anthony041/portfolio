@@ -3,7 +3,7 @@
     border-top: solid #002030 1px;
 }
 
-.container-cards {
+.cards-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -37,9 +37,8 @@
     flex-direction: column;
 }
     
-.card__side--front {
-    background-image: url("../assets/elephant.jpg");
-    background-size: cover;
+.card__side--front img {
+    object-fit: cover;
 }
     
 .card__side--back {
