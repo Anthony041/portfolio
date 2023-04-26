@@ -21,3 +21,16 @@
 #contact img:hover {
     border-bottom: solid 2px #00ffe0;
 }
+
+/* mobile */
+@media screen and (max-width: 767px) {
+    #contact h2 {
+        font-size: 22px;
+        margin: 3vw 0 3vw 0;
+    }
+    
+    #contact img {
+        width: 70px;
+        padding: 0 2px 4px 2px;
+    }
+}
