@@ -1,11 +1,18 @@
 #about {
-    margin-bottom: 60px;
     border-top: solid #002030 1px;
+    margin-bottom: 3vw;
+}
+
+#about h2 {
+    font-size: 36px;
+    margin: 3vw 0 2vw 0;
+    text-align: center;
 }
 
 .catch {
-    font-size: 24px;
-    margin-bottom: 30px;
+    font-size: 22px;
+    margin-bottom: 2vw;
+    text-align: center;
 }
 
 .catch strong {
@@ -17,7 +24,6 @@
     display: flex;
     justify-content: space-between;
     text-align: center;
-    width: 90%;
 }
 
 .skills-item {
@@ -29,14 +35,13 @@
     padding: 20px;
     border-radius: 20px;
     background-color: #002030;
-    width: 26%;
-    transition: 1s;
+    width: 14vw;
+    transition: 0.5s;
+    margin: auto;
 }
 
 .skills-item:hover {
     box-shadow:
-    0 0 3px #00ffe0,
-    inset 0 0 3px #00ffe0,
     0 0 6px #00ffe0,
     inset 0 0 6px #00ffe0;
 }
