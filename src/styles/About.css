@@ -1,18 +1,17 @@
 #about {
     border-top: solid #002030 1px;
     margin-bottom: 3vw;
+    text-align: center;
 }
 
 #about h2 {
     font-size: 36px;
     margin: 3vw 0 2vw 0;
-    text-align: center;
 }
 
 .catch {
     font-size: 22px;
     margin-bottom: 2vw;
-    text-align: center;
 }
 
 .catch strong {
@@ -23,7 +22,6 @@
 .skills-container {
     display: flex;
     justify-content: space-between;
-    text-align: center;
 }
 
 .skills-item {
@@ -81,7 +79,7 @@
 
     #about h2 {
         font-size: 22px;
-        margin: 3vw 0 3vw 0;
+        margin: 6vw 0 3vw 0;
     }
     
     .catch {
@@ -92,13 +90,14 @@
     .skills-container {
         flex-direction: column;
         align-items: center;
+        gap: 6vw;
     }
     
     .skills-item {
         height: 200px;
         padding: 10px;
-        width: 75vw;
-        margin: 0 0 6vw 0;
+        width: 90%;
+        margin: 0;
     }
     
     .skills-item h3 {

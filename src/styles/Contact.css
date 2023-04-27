@@ -4,12 +4,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
 }
 
 #contact h2 {
     font-size: 36px;
     margin: 3vw 0 2vw 0;
-    text-align: center;
 }
 
 #contact img {
@@ -26,7 +26,7 @@
 @media screen and (max-width: 767px) {
     #contact h2 {
         font-size: 22px;
-        margin: 3vw 0 3vw 0;
+        margin: 6vw 0 3vw 0;
     }
     
     #contact img {
