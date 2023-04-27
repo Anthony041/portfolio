@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.628110ea.css",
+    "main.js": "/portfolio/static/js/main.1869a180.js",
+    "static/media/sophie.png": "/portfolio/static/media/sophie.a4533472ea74be491248.png",
+    "static/media/grimoire.png": "/portfolio/static/media/grimoire.00f6c88a21d2f874b1c3.png",
+    "static/media/booki.png": "/portfolio/static/media/booki.79ba28dc5959fb36dd88.png",
+    "static/media/kasa.png": "/portfolio/static/media/kasa.9ed05c028f5f19690a0b.png",
+    "static/media/react.png": "/portfolio/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/photo.png": "/portfolio/static/media/photo.39cc9c762b51a0bec839.png",
+    "static/media/nina.jpg": "/portfolio/static/media/nina.9a1cf719cef046a94104.jpg",
+    "static/media/node.png": "/portfolio/static/media/node.b90204bbe91cbb684b4c.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.45eca5dc591dea8bc3c1.png",
+    "index.html": "/portfolio/index.html",
+    "main.628110ea.css.map": "/portfolio/static/css/main.628110ea.css.map",
+    "main.1869a180.js.map": "/portfolio/static/js/main.1869a180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628110ea.css",
+    "static/js/main.1869a180.js"
+  ]
+}
