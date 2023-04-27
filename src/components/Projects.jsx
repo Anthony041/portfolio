@@ -28,12 +28,12 @@ function Projects() {
               </ul>
             </div>
             <a
-              href="https://anthony041.github.io/gri-moire/"
+              href="https://github.com/Anthony041/gri-moire/tree/master/back"
               className="btn btn--white"
               target="_blank"
               rel="noreferrer"
             >
-              Voir le site
+              Voir le code
             </a>
           </div>
         </div>
@@ -120,12 +120,12 @@ function Projects() {
               </ul>
             </div>
             <a
-              href="https://anthony041.github.io/blu-el/"
+              href="https://github.com/Anthony041/blu-el/tree/master/FrontEnd"
               className="btn"
               target="_blank"
               rel="noreferrer"
             >
-              Voir le site
+              Voir le code
             </a>
           </div>
         </div>
