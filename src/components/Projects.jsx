@@ -27,7 +27,12 @@ function Projects() {
                 <li>Mise en œuvre des opérations CRUD de manière sécurisée</li>
               </ul>
             </div>
-            <a href="http://localhost:3000/" className="btn btn--white">
+            <a
+              href="https://anthony041.github.io/gri-moire/"
+              className="btn btn--white"
+              target="_blank"
+              rel="noreferrer"
+            >
               Voir le site
             </a>
           </div>
@@ -56,7 +61,12 @@ function Projects() {
                 </li>
               </ul>
             </div>
-            <a href="http://localhost:3000/" className="btn">
+            <a
+              href="https://anthony041.github.io/ka-sa/"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
               Voir le site
             </a>
           </div>
@@ -78,7 +88,12 @@ function Projects() {
                 <li>Rédaction d'un cahier de recette pour tester un site</li>
               </ul>
             </div>
-            <a href="http://localhost:3000/" className="btn">
+            <a
+              href="https://anthony041.github.io/car-ducci/"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
               Voir le site
             </a>
           </div>
@@ -104,7 +119,12 @@ function Projects() {
                 <li>Gestion des événements utilisateurs</li>
               </ul>
             </div>
-            <a href="http://localhost:3000/" className="btn">
+            <a
+              href="https://anthony041.github.io/blu-el/"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
               Voir le site
             </a>
           </div>
@@ -130,7 +150,12 @@ function Projects() {
                 <li>Versionnage du projet avec Git et Github</li>
               </ul>
             </div>
-            <a href="http://localhost:3000/" className="btn">
+            <a
+              href="https://anthony041.github.io/boo-ki/"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
               Voir le site
             </a>
           </div>
