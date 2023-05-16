@@ -5,7 +5,7 @@ function Contact() {
   return (
     <section id="contact">
       <h2>Contact</h2>
-      <a href="">
+      <a href="https://www.linkedin.com/in/anthony-l1">
         <img src={linkedin} alt="LinkedIn logo" />
       </a>
     </section>
