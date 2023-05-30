@@ -91,5 +91,6 @@ header {
 
     .nav li {
         margin-right: 0;
+        text-decoration: underline;
     }
 }
