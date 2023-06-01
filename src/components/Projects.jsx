@@ -112,8 +112,7 @@ function Projects() {
             <div className="card__details">
               <ul>
                 <li>
-                  Récupération des données utilisateurs dans le JavaScript via
-                  des formulaires
+                  Récupération des données utilisateurs via des formulaires
                 </li>
                 <li>Manipulation des éléments du DOM</li>
                 <li>Gestion des événements utilisateurs</li>
@@ -142,9 +141,7 @@ function Projects() {
             </p>
             <div className="card__details">
               <ul>
-                <li>
-                  Installation de l'environnement de développement front-end
-                </li>
+                <li>Installation de l'environnement de développement</li>
                 <li>Intégration du contenu conformément à la maquette</li>
                 <li>Implémentation de l'interface responsive</li>
                 <li>Versionnage du projet avec Git et Github</li>
