@@ -171,6 +171,10 @@
     .card__details li {
         padding: 10px;
     }
+
+    .buttonLocation {
+        height: 40px;
+    }
       
     .btn, .btn:link, .btn:visited {
         font-size: 18px;

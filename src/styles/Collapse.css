@@ -65,16 +65,17 @@
     .buttonCollapse p {
         font-size: 18px;
     }
-    
+
     .textCollapse {
-        height: 340px;
+        height: 352px;
+        margin-top: 40px;
     }
     
     .titlesCollapse {
-        font-size: 18px;
+        font-size: 16px;
     }
     
     .textCollapse li {
-        font-size: 16px;
+        font-size: 14px;
     }
 }
