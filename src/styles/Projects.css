@@ -61,7 +61,7 @@
     transform: rotateY(0);
 }
   
-.card__side--back h3 {
+.titleProject {
     font-size: 30px;
     color: #b0cee4;
     margin-top: 40px;
@@ -95,6 +95,10 @@
   
 .card__details li {
     border-bottom: 1px solid #b0cee4;
+}
+
+.buttonLocation {
+    height: 80px;
 }
   
 .btn, .btn:link, .btn:visited {

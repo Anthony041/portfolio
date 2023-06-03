@@ -1,0 +1,80 @@
+.collapse {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.buttonCollapse {
+    border-radius: 10px;
+    background-color: white;
+    width: 80px;
+    height: 20px;
+    line-height: 20px;
+    color: #002030;
+    padding: 10px;
+}
+
+.buttonCollapse:hover {
+    cursor: pointer;
+}
+
+.buttonCollapse p {
+    color: #002030;
+    font-size: 20px;
+}
+
+.textCollapse {
+    background-color: white;
+    text-align: left;
+    margin-top: 50px;
+    height: 335px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.titlesCollapse {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 0 10px 0;
+    margin: 0;
+    color: #002030;
+}
+
+.textSkills {
+    margin-top: 20px;
+}
+
+.textCollapse li {
+    list-style-type: circle;
+    padding: 0;
+    margin-left: 25px;
+    font-size: 18px;
+    color: #002030;
+}
+
+/* mobile */
+@media screen and (max-width: 767px) {
+    .buttonCollapse {
+        width: 72px;
+        height: 18px;
+        line-height: 18px;
+        padding: 5px;
+    }
+    
+    .buttonCollapse p {
+        font-size: 18px;
+    }
+    
+    .textCollapse {
+        height: 340px;
+    }
+    
+    .titlesCollapse {
+        font-size: 18px;
+    }
+    
+    .textCollapse li {
+        font-size: 16px;
+    }
+}
